@@ -1,2 +1,3 @@
-dbsbcns sjcnjs  hshd dhhd dhhdh dhhd  snbcns c
+git feature2 branch
+dbsbcns sjcnjs  hshd dhhd dhhdi
 inserting text in dev branch file
